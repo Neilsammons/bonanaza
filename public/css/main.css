@@ -1,3 +1,10 @@
 body{
 	background-color: #ccc;
 }
+
+<img src="images/rock.png" 
+        style ="display: block; float: right; width: 100px" />
+
+        <link href="public/css/main.css" rel="stylesheet">
+
+        <div style= "background: yellow">
